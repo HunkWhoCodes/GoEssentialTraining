@@ -1,3 +1,6 @@
+// If need to run a program in a new directory,
+// Initialize the newgit sta module: go mod init main
+
 // Package
 // All GO files belong to a package.
 // All files in the same fodler on the disc should be in the same package
